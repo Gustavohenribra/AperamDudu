@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoAperam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46929fb9b67df2b3e73dde3f81fbc9414ffa4af4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54cd08075f16b757bfd7541c65aae89a55102f7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoAperam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoAperam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
